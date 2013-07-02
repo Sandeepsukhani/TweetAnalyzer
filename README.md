@@ -8,8 +8,6 @@ Used python-flask, ExtJS, JQuery.
 
 SETUP:
 
-NOTE: Created and tested on Ubuntu 12.04
-
 Starting the server:
 
 1. Install Python 2.7 or higher
@@ -23,3 +21,5 @@ Starting the server:
 Using the application:
 
 Use any standard browser and hit to URL noted at previous step.
+
+NOTE: Created and tested on Ubuntu 12.04
